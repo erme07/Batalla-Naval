@@ -2,7 +2,7 @@
 #include <stdlib.h>			//librerias usadas para el proyecto
 #include <time.h>
 
-#define fil 10			//numeros de filas
+#define fil 10			//numero de filas
 #define col 36			//numero de columnas
 
 
